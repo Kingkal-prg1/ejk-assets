@@ -538,7 +538,7 @@
     {
       "name": "Subway Surfers: Petersburg",
       "slug": "subway-surfers-petersburg",
-      "image": "imgs/subway-surfers-páva.webp",
+      "image": "imgs/subway-surfers-petersburg.webp",
       "link": "./subway-surfers-petersburg/",
       "tags": ["subway", "running", "endless"],
       "badge": null
