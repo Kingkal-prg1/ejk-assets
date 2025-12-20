@@ -1,9 +1,10 @@
-[
+{
+  "version": 1,
+  "games": [
     {
       "name": "1 (Reversed 2048)",
       "slug": "1",
       "image": "imgs/1.webp",
-      "link": "./1/",
       "tags": ["2048", "reversed", "puzzle"],
       "badge": null
     },
@@ -11,7 +12,6 @@
       "name": "Adventure Drivers",
       "slug": "adventuredrivers",
       "image": "imgs/adventuredrivers.avif",
-      "link": "./adventuredrivers/",
       "tags": ["driving", "multiplayer", "racing"],
       "badge": null
     },
@@ -19,7 +19,6 @@
       "name": "Ages of Conflict",
       "slug": "agesofconflict",
       "image": "imgs/aoconflict.png",
-      "link": "./agesofconflict/",
       "tags": ["war", "map", "territory", "strategy"],
       "badge": null
     },
@@ -27,7 +26,6 @@
       "name": "Among Us",
       "slug": "amongus",
       "image": "imgs/amongus.webp",
-      "link": "./amongus/",
       "tags": ["amongus", "social", "multiplayer"],
       "badge": null
     },
@@ -35,7 +33,6 @@
       "name": "A Dance Of Fire And Ice",
       "slug": "adofai",
       "image": "imgs/adofai.ico",
-      "link": "./adofai/",
       "tags": ["fire", "dance", "ice", "rhythm"],
       "badge": null
     },
@@ -43,7 +40,6 @@
       "name": "Ball Blast",
       "slug": "ballblast",
       "image": "imgs/ballblast.png",
-      "link": "./ballblast/",
       "tags": ["blast", "ball", "casual"],
       "badge": "trending"
     },
@@ -51,7 +47,6 @@
       "name": "Basket Battle",
       "slug": "basketbattle",
       "image": "imgs/basketbattle.webp",
-      "link": "./basketbattle/",
       "tags": ["sport", "ball", "casual"],
       "badge": null
     },
@@ -59,7 +54,6 @@
       "name": "Battle Simulator",
       "slug": "battlesim",
       "image": "imgs/battlesim.webp",
-      "link": "./battlesim/",
       "tags": ["battle", "simulator", "casual"],
       "badge": null
     },
@@ -67,7 +61,6 @@
       "name": "Bitcoin Clicker",
       "slug": "bitcoin",
       "image": "imgs/btclicker.jpg",
-      "link": "./bitcoin/",
       "tags": ["money", "clicker", "idle"],
       "badge": null
     },
@@ -75,7 +68,6 @@
       "name": "Blaze Drifter",
       "slug": "blazedrifter",
       "image": "imgs/blazedrifter.jpeg",
-      "link": "./blazedrifter/",
       "tags": ["blaze", "drifter", "racing", "drift", "3d"],
       "badge": "featured"
     },
@@ -83,7 +75,6 @@
       "name": "Blocky Snakes",
       "slug": "blockysnakes",
       "image": "imgs/blockysnakes.PNG",
-      "link": "./blockysnakes/",
       "tags": ["snake", "block", "online"],
       "badge": null
     },
@@ -91,7 +82,6 @@
       "name": "Bottle Jump 3D",
       "slug": "bottlejump",
       "image": "imgs/bottlejump.png",
-      "link": "./bottlejump/",
       "tags": ["3d", "timing", "casual"],
       "badge": null
     },
@@ -99,7 +89,6 @@
       "name": "Bounce masters",
       "slug": "bouncemasters",
       "image": "imgs/bouncemasters.webp",
-      "link": "./bouncemasters/",
       "tags": ["jump", "penguin", "casual"],
       "badge": null
     },
@@ -107,7 +96,6 @@
       "name": "Bow masters",
       "slug": "bowmasters",
       "image": "imgs/b512cb007b4166bde0033157f47dbf78.jpg",
-      "link": "./bowmasters/",
       "tags": ["archery", "shooting", "multiplayer"],
       "badge": "popular"
     },
@@ -115,7 +103,6 @@
       "name": "Car Drawing",
       "slug": "cardrawing",
       "image": "imgs/cardrawing.webp",
-      "link": "./cardrawing/",
       "tags": ["car", "2d", "casual"],
       "badge": null
     },
@@ -123,7 +110,6 @@
       "name": "Clash Of Vikings",
       "slug": "cov",
       "image": "imgs/cov.webp",
-      "link": "./cov/",
       "tags": ["clash royale", "strategy", "card"],
       "badge": "new"
     },
@@ -131,7 +117,6 @@
       "name": "Cookie Clicker",
       "slug": "cookieclicker",
       "image": "imgs/cookieclicker.png",
-      "link": "./cookieclicker/docs/",
       "tags": ["cookie", "clicker", "idle"],
       "badge": "popular"
     },
@@ -139,7 +124,6 @@
       "name": "Cut The Rope",
       "slug": "cuttherope",
       "image": "imgs/rope.png",
-      "link": "./cuttherope/",
       "tags": ["cut the rope", "puzzle"],
       "badge": null
     },
@@ -147,7 +131,6 @@
       "name": "Dadish",
       "slug": "dadish",
       "image": "imgs/dadish.jpg",
-      "link": "./dadish/",
       "tags": ["pixel", "platformer", "adventure"],
       "badge": null
     },
@@ -155,7 +138,6 @@
       "name": "Drift Boss",
       "slug": "driftboss",
       "image": "imgs/driftboss.jpeg",
-      "link": "./driftboss/",
       "tags": ["drift", "boss", "racing"],
       "badge": null
     },
@@ -163,7 +145,6 @@
       "name": "Drive Mad",
       "slug": "drivemadx",
       "image": "imgs/drivemad.png",
-      "link": "./drivemadx/",
       "tags": ["drive", "mad", "casual"],
       "badge": "popular"
     },
@@ -171,7 +152,6 @@
       "name": "Draw Climber",
       "slug": "drawclimber",
       "image": "imgs/drawclimber.jpeg",
-      "link": "./drawclimber/",
       "tags": ["draw", "climber", "casual"],
       "badge": null
     },
@@ -179,7 +159,6 @@
       "name": "Final Earth 2",
       "slug": "finalearth",
       "image": "imgs/finalearth.png",
-      "link": "./finalearth/",
       "tags": ["final earth", "strategy", "simulation"],
       "badge": null
     },
@@ -187,7 +166,6 @@
       "name": "Football Bros",
       "slug": "football-bros",
       "image": "imgs/548.png",
-      "link": "./football-bros/",
       "tags": ["football", "sport", "multiplayer"],
       "badge": "trending"
     },
@@ -195,7 +173,6 @@
       "name": "Fruit Ninja",
       "slug": "fninja",
       "image": "imgs/fninja.webp",
-      "link": "./fninja/",
       "tags": ["fruit", "ninja", "arcade"],
       "badge": null
     },
@@ -203,7 +180,6 @@
       "name": "Geometry Dash",
       "slug": "gdash",
       "image": "imgs/gdash.png",
-      "link": "./gdash/",
       "tags": ["geometry", "dash", "rhythm"],
       "badge": null
     },
@@ -211,7 +187,6 @@
       "name": "Gobble",
       "slug": "gobble",
       "image": "imgs/gobble.webp",
-      "link": "./gobble/",
       "tags": ["3d", "casual"],
       "badge": null
     },
@@ -219,7 +194,6 @@
       "name": "Going Balls",
       "slug": "goingballs",
       "image": "imgs/goingballs.webp",
-      "link": "./goingballs/",
       "tags": ["ball", "ramp", "casual"],
       "badge": null
     },
@@ -227,7 +201,6 @@
       "name": "Grindcraft",
       "slug": "grindcraft",
       "image": "imgs/grindcraft.jpg",
-      "link": "./grindcraft/",
       "tags": ["minecraft", "idle", "crafting"],
       "badge": null
     },
@@ -235,7 +208,6 @@
       "name": "Gunspin",
       "slug": "gunspin",
       "image": "imgs/gunspin.png",
-      "link": "./gunspin/",
       "tags": ["gun", "spin", "shooting"],
       "badge": null
     },
@@ -243,7 +215,6 @@
       "name": "Hextris",
       "slug": "hextris",
       "image": "imgs/hextris.png",
-      "link": "./hextris/",
       "tags": ["puzzle", "tetris"],
       "badge": "featured"
     },
@@ -251,7 +222,6 @@
       "name": "Hill Climb Racing",
       "slug": "hcr",
       "image": "imgs/hcr.jpeg",
-      "link": "./hcr/",
       "tags": ["racing", "casual"],
       "badge": null
     },
@@ -259,7 +229,6 @@
       "name": "Idle Breakout",
       "slug": "breakout",
       "image": "imgs/breakout.webp",
-      "link": "./breakout/",
       "tags": ["breakout", "idle"],
       "badge": null
     },
@@ -267,7 +236,6 @@
       "name": "Idle Lumber Inc.",
       "slug": "idlelumber",
       "image": "imgs/lumber.jpeg",
-      "link": "./idlelumber/",
       "tags": ["idle", "tycoon"],
       "badge": null
     },
@@ -275,7 +243,6 @@
       "name": "Idle Miner Tycoon",
       "slug": "idleminer",
       "image": "imgs/miner.png",
-      "link": "./idleminer/",
       "tags": ["idle", "miner", "tycoon"],
       "badge": null
     },
@@ -283,7 +250,6 @@
       "name": "Jetpack Joyride",
       "slug": "jetpack",
       "image": "imgs/jetpack.png",
-      "link": "./jetpack/",
       "tags": ["jetpack", "running"],
       "badge": null
     },
@@ -291,7 +257,6 @@
       "name": "Jetski Race",
       "slug": "jetskirace",
       "image": "imgs/jetskirace.jpg",
-      "link": "./jetskirace/",
       "tags": ["jetski", "racing"],
       "badge": null
     },
@@ -299,7 +264,6 @@
       "name": "Johnny Trigger",
       "slug": "johnnytrigger",
       "image": "imgs/johnnytrigger.jpeg",
-      "link": "./johnnytrigger/",
       "tags": ["shooting", "action"],
       "badge": null
     },
@@ -307,7 +271,6 @@
       "name": "Jumping Shell",
       "slug": "jumpingshell",
       "image": "imgs/jumpingshell.jpeg",
-      "link": "./jumpingshell/",
       "tags": ["jumping", "puzzle"],
       "badge": null
     },
@@ -315,7 +278,6 @@
       "name": "Level Devil",
       "slug": "leveldevil",
       "image": "imgs/leveldevil.jpeg",
-      "link": "./leveldevil/",
       "tags": ["platformer", "puzzle"],
       "badge": null
     },
@@ -323,7 +285,6 @@
       "name": "Minecraft 1.8.8",
       "slug": "minecraft",
       "image": "imgs/minecraft.jpeg",
-      "link": "./minecraft/",
       "tags": ["minecraft", "eaglercraft", "sandbox"],
       "badge": "popular"
     },
@@ -331,7 +292,6 @@
       "name": "Mini Shooters",
       "slug": "minishooters",
       "image": "imgs/minishooters.webp",
-      "link": "./minishooters/",
       "tags": ["shooter", "multiplayer"],
       "badge": null
     },
@@ -339,7 +299,6 @@
       "name": "Monkey Mart",
       "slug": "monkeymart",
       "image": "imgs/monkeymart.png",
-      "link": "./monkeymart/",
       "tags": ["simulation", "tycoon"],
       "badge": null
     },
@@ -347,7 +306,6 @@
       "name": "Moto X3M",
       "slug": "x3m",
       "image": "imgs/motox3m.webp",
-      "link": "./x3m/",
       "tags": ["moto", "racing"],
       "badge": null
     },
@@ -355,7 +313,6 @@
       "name": "Mr Racer",
       "slug": "mrracer",
       "image": "imgs/mrracer.png",
-      "link": "./mrracer/",
       "tags": ["racing", "highway"],
       "badge": null
     },
@@ -363,7 +320,6 @@
       "name": "OvO",
       "slug": "ovo",
       "image": "imgs/ovo.png",
-      "link": "./ovo/",
       "tags": ["platformer", "speedrun"],
       "badge": null
     },
@@ -371,7 +327,6 @@
       "name": "Papa's Pizzeria",
       "slug": "papaspizzeria",
       "image": "imgs/pizzeria.png",
-      "link": "./papaspizzeria/",
       "tags": ["cooking", "simulation"],
       "badge": null
     },
@@ -379,7 +334,6 @@
       "name": "Polytrack",
       "slug": "polytrackx",
       "image": "imgs/polytrack.jpg",
-      "link": "./polytrackx/",
       "tags": ["3d", "racing"],
       "badge": "popular"
     },
@@ -387,184 +341,8 @@
       "name": "Ragdoll Archers",
       "slug": "ragdollarchers",
       "image": "imgs/ragdollarchers.png",
-      "link": "./ragdollarchers/",
       "tags": ["ragdoll", "archery"],
       "badge": null
-    },
-    {
-      "name": "Ragdoll Hit",
-      "slug": "raghit",
-      "image": "imgs/raghit.jpeg",
-      "link": "./raghit/",
-      "tags": ["ragdoll", "skill"],
-      "badge": null
-    },
-    {
-      "name": "Recoil",
-      "slug": "recoil",
-      "image": "imgs/recoil.avif",
-      "link": "./recoil/",
-      "tags": ["3d", "gun", "shooting"],
-      "badge": null
-    },
-    {
-      "name": "Revolution Idle",
-      "slug": "revidle",
-      "image": "imgs/revidle.jpeg",
-      "link": "./revidle/",
-      "tags": ["idle", "tycoon"],
-      "badge": null
-    },
-    {
-      "name": "Sandboxels",
-      "slug": "sandboxels",
-      "image": "imgs/sandboxels.webp",
-      "link": "./sandboxels/",
-      "tags": ["sandbox", "simulation"],
-      "badge": "trending"
-    },
-    {
-      "name": "Slice It All",
-      "slug": "slice",
-      "image": "imgs/slice.jpeg",
-      "link": "./slice/",
-      "tags": ["knife", "casual"],
-      "badge": null
-    },
-    {
-      "name": "Snowball.io",
-      "slug": "snowballio",
-      "image": "imgs/snowball.jpeg",
-      "link": "./snowballio/",
-      "tags": ["io", "multiplayer"],
-      "badge": null
-    },
-    {
-      "name": "Soundboard",
-      "slug": "soundboard",
-      "image": "imgs/sounboard.jpeg",
-      "link": "./soundboard/",
-      "tags": ["soundboard", "app"],
-      "badge": null
-    },
-    {
-      "name": "Stack",
-      "slug": "stack",
-      "image": "imgs/stack.png",
-      "link": "./stack/",
-      "tags": ["stack", "reflex"],
-      "badge": null
-    },
-    {
-      "name": "Stackball",
-      "slug": "stackball",
-      "image": "imgs/stackball.jpeg",
-      "link": "./stackball/",
-      "tags": ["stack", "ball"],
-      "badge": null
-    },
-    {
-      "name": "Stickman Hook",
-      "slug": "stickmanhook",
-      "image": "imgs/stickmanhook.jpeg",
-      "link": "./stickmanhook/",
-      "tags": ["stickman", "skill"],
-      "badge": null
-    },
-    {
-      "name": "Subway Surfers",
-      "slug": "subway-surfers-tokyo",
-      "image": "imgs/subwaysurfers.jpeg",
-      "link": "./subway-surfers-tokyo/",
-      "tags": ["subway", "running", "endless"],
-      "badge": "featured"
-    },
-    {
-      "name": "Suika Game (Watermelon Game)",
-      "slug": "suikagame",
-      "image": "imgs/suika.png",
-      "link": "./suikagame/",
-      "tags": ["suika", "watermelon", "puzzle"],
-      "badge": null
-    },
-    {
-      "name": "Survival Race",
-      "slug": "survivalrace",
-      "image": "imgs/survivalrace.jpeg",
-      "link": "./survivalrace/",
-      "tags": ["survival", "racing"],
-      "badge": null
-    },
-    {
-      "name": "Tap Road",
-      "slug": "taproad",
-      "image": "imgs/taproad.jpeg",
-      "link": "./taproad/",
-      "tags": ["neon", "racing"],
-      "badge": null
-    },
-    {
-      "name": "Tiny Fishing",
-      "slug": "tinyfishing",
-      "image": "imgs/tinyfishing.png",
-      "link": "./tinyfishing/",
-      "tags": ["fishing", "idle"],
-      "badge": null
-    },
-    {
-      "name": "Volley Random",
-      "slug": "volleyrandom",
-      "image": "imgs/volley.png",
-      "link": "./volleyrandom/",
-      "tags": ["volley", "sport"],
-      "badge": null
-    },
-    {
-      "name": "Zombie Road",
-      "slug": "zombieroad",
-      "image": "imgs/zombieroad.webp",
-      "link": "./zombieroad/",
-      "tags": ["zombie", "running"],
-      "badge": null
-    },
-    {
-      "name": "Wrestle Bros",
-      "slug": "wresstlebros",
-      "image": "imgs/wresslebros.webp",
-      "link": "./wresstlebros/",
-      "tags": ["wrestling", "multiplayer", "sport"],
-      "badge": "new"
-    },
-    {
-      "name": "Subway Surfers: Petersburg",
-      "slug": "subway-surfers-petersburg",
-      "image": "imgs/subway-surfers-petersburg.webp",
-      "link": "./subway-surfers-petersburg/",
-      "tags": ["subway", "running", "endless"],
-      "badge": null
-    },
-    {
-      "name": "Subway Surfers: Winter Holiday",
-      "slug": "subway-surfers-winter-holiday",
-      "image": "imgs/winter(2).webp",
-      "link": "./subway-surfers-winter-holiday/",
-      "tags": ["subway", "winter", "endless"],
-      "badge": "featured"
-    },
-    {
-      "name": "Subway Surfers: Zurich",
-      "slug": "subway-surfers-zurich",
-      "image": "imgs/subway-surfers-zurich.webp",
-      "link": "./subway-surfers-zurich/",
-      "tags": ["subway", "running", "endless"],
-      "badge": null
-    },
-    {
-      "name": "Stupid Zombies: 2",
-      "slug": "sz2",
-      "image": "imgs/R.jfif",
-      "link": "./sz2/",
-      "tags": ["zombies", "shooting"],
-      "badge": "popular"
     }
   ]
+}
